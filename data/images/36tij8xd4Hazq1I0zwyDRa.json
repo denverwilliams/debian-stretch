@@ -1,0 +1,15 @@
+{
+  "@uuid": "36tij8xd4Hazq1I0zwyDRa",
+  "@version": 1,
+  "@classname": "ProjectHanlon::ImageService::OSInstall",
+  "@is_template": false,
+  "@noun": "image",
+  "@path_prefix": "os",
+  "@description": "OS Install",
+  "@hidden": false,
+  "@filename": "mini.iso",
+  "@mount_method": "mount",
+  "@verification_hash": "fc86ffa04d1ed36535d39197227ec8bff77b33765c88e8c7a43679848f4c0450",
+  "@os_name": "debian-stretch",
+  "@os_version": "9.1"
+}
